@@ -1,0 +1,5 @@
+23:33:50;Timestamp;CueId;StartTimeOffset;EndTimeOffset;RelevantForMeasurementEngine;StartTriggerPosition;EndTriggerPosition;TimeOfInteraction
+23:33:50;0;0;0;True;(0,0, 0,0, 0,0);null;0
+23:33:55;0;0;0;True;null;(0,0, 0,0, 0,0);4,499416
+23:34:00;1;0;0;True;(0,0, 0,0, 0,0);null;9,543587
+23:34:05;1;0;0;True;null;(0,0, 0,0, 0,0);14,54237

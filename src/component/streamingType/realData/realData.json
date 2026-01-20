@@ -1,0 +1,151 @@
+[
+    {
+        "measurement_types": [
+            {
+                "essential_options": [
+                    {
+                        "name": "Connect_Sensor",
+                        "heading": "Connect to the Sensor:",
+                        "label": {
+                            "connected": "connected",
+                            "disconnected": "Disconnected"
+                        }
+                    },
+                    {
+                        "name": "Active_Plot",
+                        "heading": "Active Ploting of Data:",
+                        "label": {
+                            "connected": "Enabled",
+                            "disconnected": "Disabled"
+                        }
+                    }
+                ],
+                "processing_Algorithm": [
+                    {
+                        "name": "HeartPy",
+                        "heading": "HeartPy"
+                    },
+                    {
+                        "name": "EDA",
+                        "heading": "EDA_Phasic_component"
+                    }
+                ],
+                "sensor_specific_options": []
+            }
+        ],
+        "name": "Empatica"
+    },
+    {
+        "measurement_types": [
+            {
+                "essential_options": [
+                    {
+                        "name": "Connect_Sensor",
+                        "heading": "Connect to the Sensor:",
+                        "label": {
+                            "connected": "connected",
+                            "disconnected": "Disconnected"
+                        }
+                    },
+                    {
+                        "name": "Active_Plot",
+                        "heading": "Active Ploting of Data:",
+                        "label": {
+                            "connected": "Enabled",
+                            "disconnected": "Disabled"
+                        }
+                    }
+                ],
+                "processing_Algorithm": [
+                    {
+                        "name": "HeartPy",
+                        "heading": "HeartPy"
+                    }
+                ],
+                "sensor_specific_options": []
+            }
+        ],
+        "name": "Polar_h10"
+    },
+    {
+        "measurement_types": [
+            {
+                "essential_options": [
+                    {
+                        "name": "Connect_Sensor",
+                        "heading": "Connect to the Sensor:",
+                        "label": {
+                            "connected": "connected",
+                            "disconnected": "Disconnected"
+                        }
+                    },
+                    {
+                        "name": "Active_Plot",
+                        "heading": "Active Ploting of Data:",
+                        "label": {
+                            "connected": "Enabled",
+                            "disconnected": "Disabled"
+                        }
+                    }
+                ],
+                "processing_Algorithm": [
+                    {
+                        "name": "ECG",
+                        "heading": "HeartPy_ECG"
+                    }
+                ],
+                "sensor_specific_options": []
+            }
+        ],
+        "name": "Polar_oh1"
+    },
+    {
+        "measurement_types": [
+            {
+                "essential_options": [
+                    {
+                        "name": "Connect_Sensor",
+                        "heading": "Connect to the Sensor:",
+                        "label": {
+                            "connected": "connected",
+                            "disconnected": "Disconnected"
+                        }
+                    },
+                    {
+                        "name": "Active_Plot",
+                        "heading": "Active Ploting of Data:",
+                        "label": {
+                            "connected": "Enabled",
+                            "disconnected": "Disabled"
+                        }
+                    }
+                ],
+                "processing_Algorithm": [
+                    {
+                        "name": "HeartPy",
+                        "heading": "HeartPy"
+                    },
+                    {
+                        "name": "ECG",
+                        "heading": "HeartPy_ECG"
+                    },
+                    {
+                        "name": "EDA",
+                        "heading": "EDA_Phasic_component"
+                    }
+                ],
+                "sensor_specific_options": [
+                    {
+                        "name": "sensor_specific_optionss",
+                        "heading": "select a label for streaming mode"
+                    }
+                ]
+            }
+        ],
+        "name": "Biosignalsplux"
+    },
+    {
+        "measurement_types": [],
+        "name": "Engine"
+    }
+]

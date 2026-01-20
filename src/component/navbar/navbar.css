@@ -1,0 +1,7 @@
+.Live_Visual{
+    color: var(--black);
+    text-decoration: none;
+}
+.Live_Visual:hover{ 
+    color: var(--green); 
+}

@@ -1,0 +1,19 @@
+/* Hide columns for screens narrower than 768px */
+@media (max-width: 768px) {
+    .hide-responsive-columns .column-responsive {
+      display: none;
+      background-color: blue;
+    }
+  }
+  
+  /* Hide columns for screens narrower than 576px */
+  @media (max-width: 576px) {
+    .hide-responsive-columns .column-responsive-small {
+      display: none;
+    }
+  }
+
+  .tableRowEven {
+    background-color: #f9f9f9; /* Alternate row background color */
+    
+  }

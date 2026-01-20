@@ -1,0 +1,23 @@
+.graph_heading {
+  color: var(--green);
+  /* padding-left: 35%;
+  padding-right: 30%; */
+  text-align: center;
+  font-weight: 700;
+}
+.table_box {
+  width: 100%;
+  padding: 2% 2%;
+  display: flex;
+}
+.select_item{
+  width: 100%; 
+}
+.selected_measurement {
+  color: var(--green);
+  font-weight: 600;
+}
+.stream{
+    color: var(--black);
+    padding-left: 0.5%;
+}

@@ -1,5 +1,4 @@
-# measurement-engine-packaged
-
+# measurement-engine-demo
 ## Structure
 
 - The python backend is located in `/backend`. It contains the raw python code of the measurement engine without dependencies
